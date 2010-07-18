@@ -1,0 +1,32 @@
+<% javascript_tag do -%>
+  function add_question() {
+    <%= add_question(f) %>
+  }
+    <% f.fields_for :questions, Question.new do |qf| %>
+  function add_option(qid) {
+    <%= add_option(qf) %>
+  }
+    <% end -%>
+  qid = <%=survey.questions.count%>;
+  oids = [];
+  <% survey.questions.each_with_index do |q,i| -%>
+    oids[<%=i%>]=<%=q.options.count%>;
+  <% end -%>
+<% end -%>
+
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :owner %><br />
+    <%= f.collection_select :owner_id, User.all, :id, :login %>
+  </p>
+
+  <%= link_to_function 'Add Question', 'add_question()' %>
+  
+  <ul id="questions">
+  <%= render( :partial => :question, :collection => survey.questions )%>
+  </ul>

@@ -1,0 +1,5 @@
+        <% qf.fields_for :options, option do |of| -%>
+        <li>
+          <%= of.label :value %><br /><%= of.text_field :value %>
+        </li>
+        <% end -%>

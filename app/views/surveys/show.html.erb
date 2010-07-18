@@ -1,0 +1,28 @@
+<p>
+  <b>Name:</b>
+  <%=h @survey.name %>
+</p>
+
+<p>
+  <b>Owner:</b>
+  <%=link_to h( @survey.owner.name ), @survey.owner %>
+</p>
+
+<ul>
+  <% @survey.questions.each do |q| -%>
+  <li>
+    <em><%= h q.question %></em>: (<%= h q.help %>)
+    <ul>
+      <% q.options.each do |o| -%>
+      <li>
+	<%= h o.value %> -- <%=  o.responses_count %> (<%=if @survey.user_surveys_count > 0 then (100*o.responses_count)/(@survey.user_surveys_count) else 'N/A' end %>%)
+      </li>
+      <% end -%>
+    </ul>
+  </li>
+  <% end -%>
+</ul>
+
+<%= link_to 'Answer', answer_survey_path(@survey) %> |
+<%= link_to 'Edit', edit_survey_path(@survey) %> |
+<%= link_to 'Back', surveys_path %>

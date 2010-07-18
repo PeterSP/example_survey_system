@@ -1,0 +1,13 @@
+<h1>Editing survey</h1>
+
+<% form_for(@survey) do |f| %>
+
+<%= render 'form', :f => f, :survey => @survey %>
+
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @survey %> |
+<%= link_to 'Back', surveys_path %>

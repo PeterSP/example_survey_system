@@ -28,5 +28,5 @@
   <%= link_to_function 'Add Question', 'add_question()' %>
   
   <ul id="questions">
-  <%= render( :partial => :question, :collection => survey.questions )%>
+  <%= render( :partial => 'question', :collection => survey.questions, :locals => {:f => f} )%>
   </ul>

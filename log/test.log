@@ -1,0 +1,1546 @@
+Unable to load survey_question, underlying cause no such file to load -- survey_question 
+
+ /usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/user_survey_responses_test.rb:1:in `require'
+./test/unit/user_survey_responses_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+Unable to load survey_question_option, underlying cause no such file to load -- survey_question_option 
+
+ /usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/user_survey_responses_test.rb:1:in `require'
+./test/unit/user_survey_responses_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+Unable to load user_survey_response, underlying cause no such file to load -- user_survey_response 
+
+ /usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/user_survey_responses_test.rb:1:in `require'
+./test/unit/user_survey_responses_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+Unable to load survey_question, underlying cause no such file to load -- survey_question 
+
+ /usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/users_controller_test.rb:1:in `require'
+./test/functional/users_controller_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+Unable to load survey_question_option, underlying cause no such file to load -- survey_question_option 
+
+ /usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/users_controller_test.rb:1:in `require'
+./test/functional/users_controller_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+Unable to load user_survey_response, underlying cause no such file to load -- user_survey_response 
+
+ /usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/users_controller_test.rb:1:in `require'
+./test/functional/users_controller_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:4
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+
+
+Processing SurveysController#create (for 0.0.0.0 at 2010-07-18 10:50:58) [POST]
+  Parameters: {"survey"=>{}}
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;36;1mUser Load (1.0ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendered surveys/_form (27.4ms)
+Completed in 88ms (View: 78, DB: 7) | 200 OK [http://test.host/surveys?]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+
+
+Processing SurveysController#index (for 0.0.0.0 at 2010-07-18 10:50:58) [GET]
+  [4;35;1mSurvey Load (0.7ms)[0m   [0mSELECT * FROM "surveys" [0m
+Rendering template within layouts/global
+Rendering surveys/index
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+Completed in 23ms (View: 20, DB: 2) | 200 OK [http://test.host/surveys]
+
+
+Processing SurveysController#new (for 0.0.0.0 at 2010-07-18 10:50:58) [GET]
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM "users" [0m
+Rendered surveys/_form (6.6ms)
+Completed in 13ms (View: 10, DB: 1) | 200 OK [http://test.host/surveys/new]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#create (for 0.0.0.0 at 2010-07-18 10:50:58) [POST]
+  Parameters: {"user"=>{}}
+  [4;35;1mUser Create (0.0ms)[0m   [0mSQLite3::SQLException: users.name may not be NULL: INSERT INTO "users" ("name", "last_login_at", "last_request_at", "crypted_password", "current_login_ip", "password_salt", "current_login_at", "persistence_token", "login_count", "login", "last_login_ip") VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL)[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#index (for 0.0.0.0 at 2010-07-18 10:50:58) [GET]
+  [4;35;1mUser Load (1.0ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/global
+Rendering users/index
+Completed in 20ms (View: 18, DB: 2) | 200 OK [http://test.host/users]
+
+
+Processing UsersController#new (for 0.0.0.0 at 2010-07-18 10:50:58) [GET]
+Rendering template within layouts/global
+Rendering users/new
+Completed in 9ms (View: 9, DB: 0) | 200 OK [http://test.host/users/new]
+  [4;36;1mSQL (0.7ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (62.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (2.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.8ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+
+
+Processing SurveysController#create (for 0.0.0.0 at 2010-07-18 10:56:41) [POST]
+  Parameters: {"survey"=>{}}
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;36;1mUser Load (1.0ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendered surveys/_form (22.1ms)
+Completed in 63ms (View: 53, DB: 7) | 200 OK [http://test.host/surveys?]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+
+
+Processing SurveysController#index (for 0.0.0.0 at 2010-07-18 10:56:41) [GET]
+  [4;35;1mSurvey Load (0.6ms)[0m   [0mSELECT * FROM "surveys" [0m
+Rendering template within layouts/global
+Rendering surveys/index
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+Completed in 22ms (View: 19, DB: 2) | 200 OK [http://test.host/surveys]
+
+
+Processing SurveysController#new (for 0.0.0.0 at 2010-07-18 10:56:41) [GET]
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM "users" [0m
+Rendered surveys/_form (6.6ms)
+Completed in 12ms (View: 10, DB: 1) | 200 OK [http://test.host/surveys/new]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#create (for 0.0.0.0 at 2010-07-18 10:56:41) [POST]
+  Parameters: {"user"=>{}}
+  [4;35;1mUser Create (0.0ms)[0m   [0mSQLite3::SQLException: users.name may not be NULL: INSERT INTO "users" ("name", "last_login_at", "last_request_at", "crypted_password", "current_login_ip", "password_salt", "current_login_at", "persistence_token", "login_count", "login", "last_login_ip") VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL)[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#index (for 0.0.0.0 at 2010-07-18 10:56:41) [GET]
+  [4;35;1mUser Load (1.0ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/global
+Rendering users/index
+Completed in 21ms (View: 18, DB: 2) | 200 OK [http://test.host/users]
+
+
+Processing UsersController#new (for 0.0.0.0 at 2010-07-18 10:56:41) [GET]
+Rendering template within layouts/global
+Rendering users/new
+Completed in 9ms (View: 9, DB: 0) | 200 OK [http://test.host/users/new]
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" LIMIT 1[0m
+
+
+Processing SurveysController#create (for 0.0.0.0 at 2010-07-18 11:01:39) [POST]
+  Parameters: {"survey"=>{"name"=>"New Survey", "owner_id"=>663665735}}
+  [4;36;1mSurvey Create (0.6ms)[0m   [0;1mINSERT INTO "surveys" ("name", "updated_at", "owner_id", "created_at", "user_surveys_count") VALUES('New Survey', '2010-07-18 15:01:40', 663665735, '2010-07-18 15:01:40', 0)[0m
+Redirected to http://test.host/surveys/636905802
+Completed in 14ms (DB: 7) | 302 Found [http://test.host/surveys?survey%5Bname%5D=New+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+
+
+Processing SurveysController#index (for 0.0.0.0 at 2010-07-18 11:01:40) [GET]
+  [4;35;1mSurvey Load (0.7ms)[0m   [0mSELECT * FROM "surveys" [0m
+Rendering template within layouts/global
+Rendering surveys/index
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+Completed in 54ms (View: 51, DB: 3) | 200 OK [http://test.host/surveys]
+
+
+Processing SurveysController#new (for 0.0.0.0 at 2010-07-18 11:01:40) [GET]
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM "users" [0m
+Rendered surveys/_form (11.0ms)
+Completed in 19ms (View: 16, DB: 1) | 200 OK [http://test.host/surveys/new]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#create (for 0.0.0.0 at 2010-07-18 11:01:40) [POST]
+  Parameters: {"user"=>{}}
+  [4;35;1mUser Create (0.0ms)[0m   [0mSQLite3::SQLException: users.name may not be NULL: INSERT INTO "users" ("name", "last_login_at", "last_request_at", "crypted_password", "current_login_ip", "password_salt", "current_login_at", "persistence_token", "login_count", "login", "last_login_ip") VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL)[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#index (for 0.0.0.0 at 2010-07-18 11:01:40) [GET]
+  [4;35;1mUser Load (1.2ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/global
+Rendering users/index
+Completed in 21ms (View: 18, DB: 2) | 200 OK [http://test.host/users]
+
+
+Processing UsersController#new (for 0.0.0.0 at 2010-07-18 11:01:40) [GET]
+Rendering template within layouts/global
+Rendering users/new
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://test.host/users/new]
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM "users" LIMIT 1[0m
+
+
+Processing SurveysController#create (for 0.0.0.0 at 2010-07-18 11:11:22) [POST]
+  Parameters: {"survey"=>{"name"=>"New Survey", "owner_id"=>663665735}}
+  [4;36;1mSurvey Create (0.6ms)[0m   [0;1mINSERT INTO "surveys" ("name", "updated_at", "owner_id", "created_at", "user_surveys_count") VALUES('New Survey', '2010-07-18 15:11:22', 663665735, '2010-07-18 15:11:22', 0)[0m
+Redirected to http://test.host/surveys/636905802
+Completed in 13ms (DB: 7) | 302 Found [http://test.host/surveys?survey%5Bname%5D=New+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#destroy (for 0.0.0.0 at 2010-07-18 11:11:22) [DELETE]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mSurvey Destroy (0.4ms)[0m   [0mDELETE FROM "surveys" WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys
+Completed in 3ms (DB: 2) | 302 Found [http://test.host/surveys/122096197]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#edit (for 0.0.0.0 at 2010-07-18 11:11:22) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.5ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/edit
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 914408790) [0m
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM "users" [0m
+
+
+Processing SurveysController#index (for 0.0.0.0 at 2010-07-18 11:11:22) [GET]
+  [4;36;1mSurvey Load (0.6ms)[0m   [0;1mSELECT * FROM "surveys" [0m
+Rendering template within layouts/global
+Rendering surveys/index
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+Completed in 45ms (View: 42, DB: 4) | 200 OK [http://test.host/surveys]
+
+
+Processing SurveysController#new (for 0.0.0.0 at 2010-07-18 11:11:22) [GET]
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;36;1mUser Load (0.9ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendered surveys/_form (6.6ms)
+Completed in 14ms (View: 12, DB: 1) | 200 OK [http://test.host/surveys/new]
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#show (for 0.0.0.0 at 2010-07-18 11:11:22) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.5ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/show
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mOption Load (0.7ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mOption Load (1.0ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options".question_id = 914408790) [0m
+Completed in 21ms (View: 15, DB: 4) | 200 OK [http://test.host/surveys/122096197]
+  [4;35;1mSurvey Load (0.5ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing SurveysController#update (for 0.0.0.0 at 2010-07-18 11:11:23) [PUT]
+  Parameters: {"id"=>"122096197", "survey"=>{"name"=>"Sex Survey", "owner_id"=>663665735}}
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mSurvey Update (0.7ms)[0m   [0;1mUPDATE "surveys" SET "name" = 'Sex Survey', "updated_at" = '2010-07-18 15:11:23' WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys/122096197
+Completed in 7ms (DB: 2) | 302 Found [http://test.host/surveys/122096197?survey%5Bname%5D=Sex+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#create (for 0.0.0.0 at 2010-07-18 11:11:23) [POST]
+  Parameters: {"user"=>{}}
+  [4;36;1mUser Create (0.0ms)[0m   [0;1mSQLite3::SQLException: users.name may not be NULL: INSERT INTO "users" ("name", "last_login_at", "last_request_at", "crypted_password", "current_login_ip", "password_salt", "current_login_at", "persistence_token", "login_count", "login", "last_login_ip") VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL)[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#index (for 0.0.0.0 at 2010-07-18 11:11:23) [GET]
+  [4;36;1mUser Load (1.0ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/global
+Rendering users/index
+Completed in 20ms (View: 18, DB: 2) | 200 OK [http://test.host/users]
+
+
+Processing UsersController#new (for 0.0.0.0 at 2010-07-18 11:11:23) [GET]
+Rendering template within layouts/global
+Rendering users/new
+Completed in 9ms (View: 9, DB: 0) | 200 OK [http://test.host/users/new]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" LIMIT 1[0m
+
+
+Processing SurveysController#create (for 0.0.0.0 at 2010-07-18 11:13:35) [POST]
+  Parameters: {"survey"=>{"name"=>"New Survey", "owner_id"=>663665735}}
+  [4;36;1mSurvey Create (0.6ms)[0m   [0;1mINSERT INTO "surveys" ("name", "updated_at", "owner_id", "created_at", "user_surveys_count") VALUES('New Survey', '2010-07-18 15:13:35', 663665735, '2010-07-18 15:13:35', 0)[0m
+Redirected to http://test.host/surveys/636905802
+Completed in 13ms (DB: 7) | 302 Found [http://test.host/surveys?survey%5Bname%5D=New+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#destroy (for 0.0.0.0 at 2010-07-18 11:13:35) [DELETE]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mSurvey Destroy (0.5ms)[0m   [0mDELETE FROM "surveys" WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys
+Completed in 4ms (DB: 2) | 302 Found [http://test.host/surveys/122096197]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (1.2ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#edit (for 0.0.0.0 at 2010-07-18 11:13:35) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.6ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/edit
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 914408790) [0m
+  [4;35;1mUser Load (1.0ms)[0m   [0mSELECT * FROM "users" [0m
+
+
+Processing SurveysController#index (for 0.0.0.0 at 2010-07-18 11:13:35) [GET]
+  [4;36;1mSurvey Load (0.8ms)[0m   [0;1mSELECT * FROM "surveys" [0m
+Rendering template within layouts/global
+Rendering surveys/index
+  [4;35;1mUser Load (0.8ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+Completed in 49ms (View: 45, DB: 4) | 200 OK [http://test.host/surveys]
+
+
+Processing SurveysController#new (for 0.0.0.0 at 2010-07-18 11:13:35) [GET]
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;36;1mUser Load (0.9ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendered surveys/_form (7.0ms)
+Completed in 14ms (View: 12, DB: 1) | 200 OK [http://test.host/surveys/new]
+  [4;35;1mSurvey Load (0.6ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#show (for 0.0.0.0 at 2010-07-18 11:13:35) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.6ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/show
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mOption Load (0.8ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mOption Load (1.0ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options".question_id = 914408790) [0m
+Completed in 24ms (View: 16, DB: 4) | 200 OK [http://test.host/surveys/122096197]
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing SurveysController#update (for 0.0.0.0 at 2010-07-18 11:13:35) [PUT]
+  Parameters: {"id"=>"122096197", "survey"=>{"name"=>"Sex Survey", "owner_id"=>663665735}}
+  [4;35;1mSurvey Load (0.5ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mSurvey Update (0.8ms)[0m   [0;1mUPDATE "surveys" SET "name" = 'Sex Survey', "updated_at" = '2010-07-18 15:13:35' WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys/122096197
+Completed in 8ms (DB: 2) | 302 Found [http://test.host/surveys/122096197?survey%5Bname%5D=Sex+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#create (for 0.0.0.0 at 2010-07-18 11:13:35) [POST]
+  Parameters: {"user"=>{}}
+  [4;36;1mUser Create (0.0ms)[0m   [0;1mSQLite3::SQLException: users.name may not be NULL: INSERT INTO "users" ("name", "last_login_at", "last_request_at", "crypted_password", "current_login_ip", "password_salt", "current_login_at", "persistence_token", "login_count", "login", "last_login_ip") VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL)[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#index (for 0.0.0.0 at 2010-07-18 11:13:35) [GET]
+  [4;36;1mUser Load (1.0ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/global
+Rendering users/index
+Completed in 22ms (View: 20, DB: 2) | 200 OK [http://test.host/users]
+
+
+Processing UsersController#new (for 0.0.0.0 at 2010-07-18 11:13:35) [GET]
+Rendering template within layouts/global
+Rendering users/new
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://test.host/users/new]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mUser Load (0.7ms)[0m   [0mSELECT * FROM "users" LIMIT 1[0m
+
+
+Processing SurveysController#create (for 0.0.0.0 at 2010-07-18 11:16:21) [POST]
+  Parameters: {"survey"=>{"name"=>"New Survey", "owner_id"=>663665735}}
+  [4;36;1mSurvey Create (0.6ms)[0m   [0;1mINSERT INTO "surveys" ("name", "updated_at", "owner_id", "created_at", "user_surveys_count") VALUES('New Survey', '2010-07-18 15:16:21', 663665735, '2010-07-18 15:16:21', 0)[0m
+Redirected to http://test.host/surveys/636905802
+Completed in 14ms (DB: 7) | 302 Found [http://test.host/surveys?survey%5Bname%5D=New+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#destroy (for 0.0.0.0 at 2010-07-18 11:16:21) [DELETE]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mSurvey Destroy (0.4ms)[0m   [0mDELETE FROM "surveys" WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys
+Completed in 3ms (DB: 2) | 302 Found [http://test.host/surveys/122096197]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#edit (for 0.0.0.0 at 2010-07-18 11:16:21) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.6ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/edit
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 914408790) [0m
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM "users" [0m
+  [4;36;1mOption Load (0.8ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+Rendered surveys/_option (3.9ms)
+Rendered surveys/_option (2.8ms)
+Rendered surveys/_option (2.9ms)
+Rendered surveys/_question (19.5ms)
+  [4;35;1mOption Load (1.1ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 914408790) [0m
+Rendered surveys/_option (3.1ms)
+Rendered surveys/_option (2.8ms)
+Rendered surveys/_option (2.9ms)
+Rendered surveys/_option (2.8ms)
+Rendered surveys/_option (2.9ms)
+Rendered surveys/_question (22.2ms)
+Rendered surveys/_form (58.2ms)
+Completed in 96ms (View: 86, DB: 5) | 200 OK [http://test.host/surveys/122096197/edit]
+
+
+Processing SurveysController#index (for 0.0.0.0 at 2010-07-18 11:16:21) [GET]
+  [4;36;1mSurvey Load (0.7ms)[0m   [0;1mSELECT * FROM "surveys" [0m
+Rendering template within layouts/global
+Rendering surveys/index
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+Completed in 22ms (View: 19, DB: 2) | 200 OK [http://test.host/surveys]
+
+
+Processing SurveysController#new (for 0.0.0.0 at 2010-07-18 11:16:21) [GET]
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;36;1mUser Load (0.9ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendered surveys/_form (6.6ms)
+Completed in 14ms (View: 12, DB: 1) | 200 OK [http://test.host/surveys/new]
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#show (for 0.0.0.0 at 2010-07-18 11:16:21) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.5ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/show
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mOption Load (0.7ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mOption Load (1.1ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options".question_id = 914408790) [0m
+Completed in 19ms (View: 13, DB: 4) | 200 OK [http://test.host/surveys/122096197]
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing SurveysController#update (for 0.0.0.0 at 2010-07-18 11:16:21) [PUT]
+  Parameters: {"id"=>"122096197", "survey"=>{"name"=>"Sex Survey", "owner_id"=>663665735}}
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mSurvey Update (0.7ms)[0m   [0;1mUPDATE "surveys" SET "name" = 'Sex Survey', "updated_at" = '2010-07-18 15:16:21' WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys/122096197
+Completed in 7ms (DB: 2) | 302 Found [http://test.host/surveys/122096197?survey%5Bname%5D=Sex+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#create (for 0.0.0.0 at 2010-07-18 11:16:21) [POST]
+  Parameters: {"user"=>{}}
+  [4;36;1mUser Create (0.0ms)[0m   [0;1mSQLite3::SQLException: users.name may not be NULL: INSERT INTO "users" ("name", "last_login_at", "last_request_at", "crypted_password", "current_login_ip", "password_salt", "current_login_at", "persistence_token", "login_count", "login", "last_login_ip") VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL)[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#index (for 0.0.0.0 at 2010-07-18 11:16:21) [GET]
+  [4;36;1mUser Load (1.0ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendering template within layouts/global
+Rendering users/index
+Completed in 20ms (View: 18, DB: 2) | 200 OK [http://test.host/users]
+
+
+Processing UsersController#new (for 0.0.0.0 at 2010-07-18 11:16:21) [GET]
+Rendering template within layouts/global
+Rendering users/new
+Completed in 69ms (View: 68, DB: 0) | 200 OK [http://test.host/users/new]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" LIMIT 1[0m
+
+
+Processing SurveysController#create (for 0.0.0.0 at 2010-07-18 11:21:19) [POST]
+  Parameters: {"survey"=>{"name"=>"New Survey", "owner_id"=>663665735}}
+  [4;36;1mSurvey Create (0.5ms)[0m   [0;1mINSERT INTO "surveys" ("name", "updated_at", "owner_id", "created_at", "user_surveys_count") VALUES('New Survey', '2010-07-18 15:21:19', 663665735, '2010-07-18 15:21:19', 0)[0m
+Redirected to http://test.host/surveys/636905802
+Completed in 12ms (DB: 7) | 302 Found [http://test.host/surveys?survey%5Bname%5D=New+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#destroy (for 0.0.0.0 at 2010-07-18 11:21:19) [DELETE]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mSurvey Destroy (0.4ms)[0m   [0mDELETE FROM "surveys" WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys
+Completed in 4ms (DB: 2) | 302 Found [http://test.host/surveys/122096197]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (0.5ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#edit (for 0.0.0.0 at 2010-07-18 11:21:19) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.6ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/edit
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 914408790) [0m
+  [4;35;1mUser Load (1.0ms)[0m   [0mSELECT * FROM "users" [0m
+  [4;36;1mOption Load (0.8ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+Rendered surveys/_option (4.5ms)
+Rendered surveys/_option (2.8ms)
+Rendered surveys/_option (3.1ms)
+Rendered surveys/_question (20.8ms)
+  [4;35;1mOption Load (1.0ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 914408790) [0m
+Rendered surveys/_option (2.9ms)
+Rendered surveys/_option (2.9ms)
+Rendered surveys/_option (3.3ms)
+Rendered surveys/_option (3.3ms)
+Rendered surveys/_option (3.6ms)
+Rendered surveys/_question (23.8ms)
+Rendered surveys/_form (62.1ms)
+Completed in 101ms (View: 91, DB: 6) | 200 OK [http://test.host/surveys/122096197/edit]
+
+
+Processing SurveysController#index (for 0.0.0.0 at 2010-07-18 11:21:19) [GET]
+  [4;36;1mSurvey Load (0.6ms)[0m   [0;1mSELECT * FROM "surveys" [0m
+Rendering template within layouts/global
+Rendering surveys/index
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+Completed in 25ms (View: 22, DB: 2) | 200 OK [http://test.host/surveys]
+
+
+Processing SurveysController#new (for 0.0.0.0 at 2010-07-18 11:21:19) [GET]
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;36;1mUser Load (0.9ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendered surveys/_form (6.9ms)
+Completed in 14ms (View: 12, DB: 1) | 200 OK [http://test.host/surveys/new]
+  [4;35;1mSurvey Load (0.6ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#show (for 0.0.0.0 at 2010-07-18 11:21:19) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.6ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/show
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mOption Load (0.7ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mOption Load (0.9ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options".question_id = 914408790) [0m
+Completed in 20ms (View: 14, DB: 4) | 200 OK [http://test.host/surveys/122096197]
+  [4;35;1mSurvey Load (0.5ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing SurveysController#update (for 0.0.0.0 at 2010-07-18 11:21:20) [PUT]
+  Parameters: {"id"=>"122096197", "survey"=>{"name"=>"Sex Survey", "owner_id"=>663665735}}
+  [4;35;1mSurvey Load (0.5ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mSurvey Update (1.4ms)[0m   [0;1mUPDATE "surveys" SET "name" = 'Sex Survey', "updated_at" = '2010-07-18 15:21:20' WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys/122096197
+Completed in 9ms (DB: 3) | 302 Found [http://test.host/surveys/122096197?survey%5Bname%5D=Sex+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#create (for 0.0.0.0 at 2010-07-18 11:21:20) [POST]
+  Parameters: {"user"=>{"name"=>"Dean", "login"=>"dean"}}
+  [4;36;1mUser Create (0.7ms)[0m   [0;1mINSERT INTO "users" ("name", "last_login_at", "last_request_at", "crypted_password", "current_login_ip", "password_salt", "current_login_at", "persistence_token", "login_count", "login", "last_login_ip") VALUES('Dean', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 0, 'dean', NULL)[0m
+Redirected to http://test.host/users/902541636
+Completed in 9ms (DB: 1) | 302 Found [http://test.host/users?user%5Blogin%5D=dean&user%5Bname%5D=Dean]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing UsersController#destroy (for 0.0.0.0 at 2010-07-18 11:21:20) [DELETE]
+  Parameters: {"id"=>"663665735"}
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mUser Destroy (0.4ms)[0m   [0mDELETE FROM "users" WHERE "id" = 663665735[0m
+Redirected to http://test.host/users
+Completed in 3ms (DB: 2) | 302 Found [http://test.host/users/663665735]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing UsersController#edit (for 0.0.0.0 at 2010-07-18 11:21:20) [GET]
+  Parameters: {"id"=>"663665735"}
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+Rendering template within layouts/global
+Rendering users/edit
+Completed in 15ms (View: 13, DB: 2) | 200 OK [http://test.host/users/663665735/edit]
+
+
+Processing UsersController#index (for 0.0.0.0 at 2010-07-18 11:21:20) [GET]
+  [4;35;1mUser Load (1.0ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/global
+Rendering users/index
+Completed in 113ms (View: 111, DB: 1) | 200 OK [http://test.host/users]
+
+
+Processing UsersController#new (for 0.0.0.0 at 2010-07-18 11:21:20) [GET]
+Rendering template within layouts/global
+Rendering users/new
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://test.host/users/new]
+  [4;36;1mUser Load (0.9ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing UsersController#show (for 0.0.0.0 at 2010-07-18 11:21:20) [GET]
+  Parameters: {"id"=>"663665735"}
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+Rendering template within layouts/global
+Rendering users/show
+Completed in 14ms (View: 8, DB: 2) | 200 OK [http://test.host/users/663665735]
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing UsersController#update (for 0.0.0.0 at 2010-07-18 11:21:20) [PUT]
+  Parameters: {"user"=>{"name"=>"Alice Deveraux", "login"=>"alice"}, "id"=>"663665735"}
+  [4;35;1mUser Load (0.7ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mUser Update (0.7ms)[0m   [0;1mUPDATE "users" SET "name" = 'Alice Deveraux' WHERE "id" = 663665735[0m
+Redirected to http://test.host/users/663665735
+Completed in 7ms (DB: 2) | 302 Found [http://test.host/users/663665735?user%5Blogin%5D=alice&user%5Bname%5D=Alice+Deveraux]
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mUser Load (0.7ms)[0m   [0mSELECT * FROM "users" LIMIT 1[0m
+
+
+Processing SurveysController#create (for 0.0.0.0 at 2010-07-18 11:30:25) [POST]
+  Parameters: {"survey"=>{"name"=>"New Survey", "owner_id"=>663665735}}
+  [4;36;1mSurvey Create (0.6ms)[0m   [0;1mINSERT INTO "surveys" ("name", "updated_at", "owner_id", "created_at", "user_surveys_count") VALUES('New Survey', '2010-07-18 15:30:25', 663665735, '2010-07-18 15:30:25', 0)[0m
+Redirected to http://test.host/surveys/636905802
+Completed in 12ms (DB: 6) | 302 Found [http://test.host/surveys?survey%5Bname%5D=New+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (0.5ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#destroy (for 0.0.0.0 at 2010-07-18 11:30:25) [DELETE]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mSurvey Destroy (0.5ms)[0m   [0mDELETE FROM "surveys" WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys
+Completed in 3ms (DB: 2) | 302 Found [http://test.host/surveys/122096197]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "surveys" [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#edit (for 0.0.0.0 at 2010-07-18 11:30:25) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.6ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/edit
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "options" WHERE ("options".question_id = 914408790) [0m
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM "users" [0m
+  [4;36;1mOption Load (0.8ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+Rendered surveys/_option (3.9ms)
+Rendered surveys/_option (2.9ms)
+Rendered surveys/_option (2.8ms)
+Rendered surveys/_question (19.7ms)
+  [4;35;1mOption Load (1.1ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 914408790) [0m
+Rendered surveys/_option (2.9ms)
+Rendered surveys/_option (3.2ms)
+Rendered surveys/_option (3.0ms)
+Rendered surveys/_option (2.9ms)
+Rendered surveys/_option (2.9ms)
+Rendered surveys/_question (22.3ms)
+Rendered surveys/_form (58.3ms)
+Completed in 98ms (View: 88, DB: 5) | 200 OK [http://test.host/surveys/122096197/edit]
+
+
+Processing SurveysController#index (for 0.0.0.0 at 2010-07-18 11:30:25) [GET]
+  [4;36;1mSurvey Load (0.6ms)[0m   [0;1mSELECT * FROM "surveys" [0m
+Rendering template within layouts/global
+Rendering surveys/index
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+Completed in 23ms (View: 20, DB: 2) | 200 OK [http://test.host/surveys]
+
+
+Processing SurveysController#new (for 0.0.0.0 at 2010-07-18 11:30:25) [GET]
+Rendering template within layouts/global
+Rendering surveys/new
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT count(*) AS count_all FROM "questions" WHERE ("questions".survey_id = NULL) [0m
+  [4;36;1mUser Load (0.9ms)[0m   [0;1mSELECT * FROM "users" [0m
+Rendered surveys/_form (6.7ms)
+Completed in 14ms (View: 12, DB: 1) | 200 OK [http://test.host/surveys/new]
+  [4;35;1mSurvey Load (0.5ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+
+
+Processing SurveysController#show (for 0.0.0.0 at 2010-07-18 11:30:25) [GET]
+  Parameters: {"id"=>"122096197"}
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.5ms)[0m   [0mSELECT "questions".* FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+Rendering template within layouts/global
+Rendering surveys/show
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mOption Load (0.7ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mOption Load (0.9ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options".question_id = 914408790) [0m
+Completed in 20ms (View: 13, DB: 4) | 200 OK [http://test.host/surveys/122096197]
+  [4;35;1mSurvey Load (0.5ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing SurveysController#update (for 0.0.0.0 at 2010-07-18 11:30:25) [PUT]
+  Parameters: {"id"=>"122096197", "survey"=>{"name"=>"Sex Survey", "owner_id"=>663665735}}
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mSurvey Update (0.7ms)[0m   [0;1mUPDATE "surveys" SET "name" = 'Sex Survey', "updated_at" = '2010-07-18 15:30:25' WHERE "id" = 122096197[0m
+Redirected to http://test.host/surveys/122096197
+Completed in 7ms (DB: 2) | 302 Found [http://test.host/surveys/122096197?survey%5Bname%5D=Sex+Survey&survey%5Bowner_id%5D=663665735]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+
+
+Processing UsersController#create (for 0.0.0.0 at 2010-07-18 11:30:25) [POST]
+  Parameters: {"user"=>{"name"=>"Dean", "login"=>"dean"}}
+  [4;36;1mUser Create (0.8ms)[0m   [0;1mINSERT INTO "users" ("name", "last_login_at", "last_request_at", "crypted_password", "current_login_ip", "password_salt", "current_login_at", "persistence_token", "login_count", "login", "last_login_ip") VALUES('Dean', NULL, NULL, NULL, NULL, NULL, NULL, NULL, 0, 'dean', NULL)[0m
+Redirected to http://test.host/users/902541636
+Completed in 10ms (DB: 1) | 302 Found [http://test.host/users?user%5Blogin%5D=dean&user%5Bname%5D=Dean]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "users" [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing UsersController#destroy (for 0.0.0.0 at 2010-07-18 11:30:25) [DELETE]
+  Parameters: {"id"=>"663665735"}
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;35;1mUser Destroy (0.6ms)[0m   [0mDELETE FROM "users" WHERE "id" = 663665735[0m
+Redirected to http://test.host/users
+Completed in 3ms (DB: 2) | 302 Found [http://test.host/users/663665735]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "users" [0m
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing UsersController#edit (for 0.0.0.0 at 2010-07-18 11:30:25) [GET]
+  Parameters: {"id"=>"663665735"}
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+Rendering template within layouts/global
+Rendering users/edit
+Completed in 12ms (View: 11, DB: 1) | 200 OK [http://test.host/users/663665735/edit]
+
+
+Processing UsersController#index (for 0.0.0.0 at 2010-07-18 11:30:25) [GET]
+  [4;35;1mUser Load (1.0ms)[0m   [0mSELECT * FROM "users" [0m
+Rendering template within layouts/global
+Rendering users/index
+Completed in 91ms (View: 88, DB: 1) | 200 OK [http://test.host/users]
+
+
+Processing UsersController#new (for 0.0.0.0 at 2010-07-18 11:30:25) [GET]
+Rendering template within layouts/global
+Rendering users/new
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://test.host/users/new]
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing UsersController#show (for 0.0.0.0 at 2010-07-18 11:30:25) [GET]
+  Parameters: {"id"=>"663665735"}
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+Rendering template within layouts/global
+Rendering users/show
+Completed in 9ms (View: 7, DB: 1) | 200 OK [http://test.host/users/663665735]
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+
+
+Processing UsersController#update (for 0.0.0.0 at 2010-07-18 11:30:26) [PUT]
+  Parameters: {"user"=>{"name"=>"Alice Deveraux", "login"=>"alice"}, "id"=>"663665735"}
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mUser Update (0.7ms)[0m   [0;1mUPDATE "users" SET "name" = 'Alice Deveraux' WHERE "id" = 663665735[0m
+Redirected to http://test.host/users/663665735
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/users/663665735?user%5Blogin%5D=alice&user%5Bname%5D=Alice+Deveraux]
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys".owner_id = 902541635) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mResponse Load (0.4ms)[0m   [0mSELECT "responses".* FROM "responses" INNER JOIN "user_surveys" ON "responses".user_survey_id = "user_surveys".id WHERE (("user_surveys".user_id = 902541635)) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mUserSurvey Load (0.3ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys".user_id = 902541635) [0m
+  [4;36;1mQuestion Load (1.0ms)[0m   [0;1mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;35;1mOption Load (1.3ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mQuestion Load (0.7ms)[0m   [0;1mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;35;1mResponse Load (0.3ms)[0m   [0mSELECT * FROM "responses" WHERE ("responses".question_id = 122096197) [0m
+  [4;36;1mQuestion Load (0.4ms)[0m   [0;1mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mResponse Load (0.4ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mOption Load (0.4ms)[0m   [0mSELECT * FROM "options" WHERE ("options"."id" = 175409773) [0m
+  [4;36;1mResponse Load (0.4ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mQuestion Load (1.4ms)[0m   [0mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;36;1mResponse Load (0.5ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT "surveys".* FROM "surveys" INNER JOIN "user_surveys" ON "surveys".id = "user_surveys".survey_id WHERE (("user_surveys".id = 663665735)) [0m
+  [4;36;1mResponse Load (0.6ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT "users".* FROM "users" INNER JOIN "user_surveys" ON "users".id = "user_surveys".user_id WHERE (("user_surveys".id = 663665735)) [0m
+  [4;36;1mResponse Load (0.4ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mUserSurvey Load (0.3ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 663665735) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.5ms)[0m   [0mSELECT * FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mResponse Load (0.5ms)[0m   [0mSELECT "responses".* FROM "responses" INNER JOIN "user_surveys" ON "responses".user_survey_id = "user_surveys".id WHERE (("user_surveys".survey_id = 122096197)) [0m
+  [4;36;1mSurvey Load (0.8ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mUserSurvey Load (0.4ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys".survey_id = 122096197) [0m
+  [4;36;1mUserSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 902541635) [0m
+  [4;35;1mResponse Load (0.3ms)[0m   [0mSELECT * FROM "responses" WHERE ("responses".user_survey_id = 902541635) [0m
+  [4;36;1mUserSurvey Load (0.3ms)[0m   [0;1mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 902541635) [0m
+  [4;35;1mSurvey Load (0.3ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 636905801) [0m
+  [4;36;1mUserSurvey Load (0.3ms)[0m   [0;1mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 902541635) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mSurvey Load (0.3ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys".owner_id = 902541635) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mResponse Load (0.4ms)[0m   [0mSELECT "responses".* FROM "responses" INNER JOIN "user_surveys" ON "responses".user_survey_id = "user_surveys".id WHERE (("user_surveys".user_id = 902541635)) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mUserSurvey Load (0.3ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys".user_id = 902541635) [0m
+  [4;36;1mOption Load (0.8ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options"."id" = 578601510) [0m
+  [4;35;1mQuestion Load (0.7ms)[0m   [0mSELECT * FROM "questions" WHERE ("questions"."id" = 914408790) [0m
+  [4;36;1mOption Load (0.7ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options"."id" = 578601510) [0m
+  [4;35;1mResponse Load (0.2ms)[0m   [0mSELECT * FROM "responses" WHERE ("responses".option_id = 578601510) [0m
+  [4;36;1mOption Load (0.4ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options"."id" = 578601510) [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT "surveys".* FROM "surveys" INNER JOIN "questions" ON "surveys".id = "questions".survey_id WHERE (("questions".id = 914408790)) [0m
+  [4;36;1mQuestion Load (0.4ms)[0m   [0;1mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;35;1mOption Load (0.6ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mQuestion Load (0.4ms)[0m   [0;1mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;35;1mResponse Load (0.3ms)[0m   [0mSELECT * FROM "responses" WHERE ("responses".question_id = 122096197) [0m
+  [4;36;1mQuestion Load (0.4ms)[0m   [0;1mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;35;1mSurvey Load (0.3ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mResponse Load (0.3ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mOption Load (0.3ms)[0m   [0mSELECT * FROM "options" WHERE ("options"."id" = 175409773) [0m
+  [4;36;1mResponse Load (0.4ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mQuestion Load (0.4ms)[0m   [0mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;36;1mResponse Load (0.3ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT "surveys".* FROM "surveys" INNER JOIN "user_surveys" ON "surveys".id = "user_surveys".survey_id WHERE (("user_surveys".id = 663665735)) [0m
+  [4;36;1mResponse Load (0.4ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT "users".* FROM "users" INNER JOIN "user_surveys" ON "users".id = "user_surveys".user_id WHERE (("user_surveys".id = 663665735)) [0m
+  [4;36;1mResponse Load (0.3ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mUserSurvey Load (0.3ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 663665735) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.5ms)[0m   [0mSELECT * FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mResponse Load (0.5ms)[0m   [0mSELECT "responses".* FROM "responses" INNER JOIN "user_surveys" ON "responses".user_survey_id = "user_surveys".id WHERE (("user_surveys".survey_id = 122096197)) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mUserSurvey Load (0.3ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys".survey_id = 122096197) [0m
+  [4;36;1mUserSurvey Load (0.3ms)[0m   [0;1mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 902541635) [0m
+  [4;35;1mResponse Load (0.4ms)[0m   [0mSELECT * FROM "responses" WHERE ("responses".user_survey_id = 902541635) [0m
+  [4;36;1mUserSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 902541635) [0m
+  [4;35;1mSurvey Load (0.3ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 636905801) [0m
+  [4;36;1mUserSurvey Load (0.3ms)[0m   [0;1mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 902541635) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mSurvey Load (0.3ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys".owner_id = 902541635) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mResponse Load (0.3ms)[0m   [0mSELECT "responses".* FROM "responses" INNER JOIN "user_surveys" ON "responses".user_survey_id = "user_surveys".id WHERE (("user_surveys".user_id = 902541635)) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mUserSurvey Load (0.3ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys".user_id = 902541635) [0m
+  [4;36;1mOption Load (0.8ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options"."id" = 578601510) [0m
+  [4;35;1mQuestion Load (0.7ms)[0m   [0mSELECT * FROM "questions" WHERE ("questions"."id" = 914408790) [0m
+  [4;36;1mOption Load (0.5ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options"."id" = 211320500) [0m
+  [4;35;1mResponse Load (0.4ms)[0m   [0mSELECT * FROM "responses" WHERE ("responses".option_id = 211320500) [0m
+  [4;36;1mOption Load (0.4ms)[0m   [0;1mSELECT * FROM "options" WHERE ("options"."id" = 578601510) [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT "surveys".* FROM "surveys" INNER JOIN "questions" ON "surveys".id = "questions".survey_id WHERE (("questions".id = 914408790)) [0m
+  [4;36;1mQuestion Load (0.4ms)[0m   [0;1mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;35;1mOption Load (0.7ms)[0m   [0mSELECT * FROM "options" WHERE ("options".question_id = 122096197) [0m
+  [4;36;1mQuestion Load (0.5ms)[0m   [0;1mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;35;1mResponse Load (0.3ms)[0m   [0mSELECT * FROM "responses" WHERE ("responses".question_id = 122096197) [0m
+  [4;36;1mQuestion Load (0.4ms)[0m   [0;1mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;35;1mSurvey Load (0.3ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;36;1mResponse Load (0.4ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mOption Load (0.4ms)[0m   [0mSELECT * FROM "options" WHERE ("options"."id" = 175409773) [0m
+  [4;36;1mResponse Load (0.5ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mQuestion Load (0.3ms)[0m   [0mSELECT * FROM "questions" WHERE ("questions"."id" = 122096197) [0m
+  [4;36;1mResponse Load (0.4ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT "surveys".* FROM "surveys" INNER JOIN "user_surveys" ON "surveys".id = "user_surveys".survey_id WHERE (("user_surveys".id = 663665735)) [0m
+  [4;36;1mResponse Load (0.3ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT "users".* FROM "users" INNER JOIN "user_surveys" ON "users".id = "user_surveys".user_id WHERE (("user_surveys".id = 663665735)) [0m
+  [4;36;1mResponse Load (0.3ms)[0m   [0;1mSELECT * FROM "responses" WHERE ("responses"."id" = 568585295) [0m
+  [4;35;1mUserSurvey Load (0.3ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 663665735) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 663665735) [0m
+  [4;36;1mSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mQuestion Load (0.5ms)[0m   [0mSELECT * FROM "questions" WHERE ("questions".survey_id = 122096197) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mResponse Load (0.6ms)[0m   [0mSELECT "responses".* FROM "responses" INNER JOIN "user_surveys" ON "responses".user_survey_id = "user_surveys".id WHERE (("user_surveys".survey_id = 122096197)) [0m
+  [4;36;1mSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "surveys" WHERE ("surveys"."id" = 122096197) [0m
+  [4;35;1mUserSurvey Load (0.3ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys".survey_id = 122096197) [0m
+  [4;36;1mUserSurvey Load (0.4ms)[0m   [0;1mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 902541635) [0m
+  [4;35;1mResponse Load (0.4ms)[0m   [0mSELECT * FROM "responses" WHERE ("responses".user_survey_id = 902541635) [0m
+  [4;36;1mUserSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 902541635) [0m
+  [4;35;1mSurvey Load (0.4ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys"."id" = 636905801) [0m
+  [4;36;1mUserSurvey Load (0.5ms)[0m   [0;1mSELECT * FROM "user_surveys" WHERE ("user_surveys"."id" = 902541635) [0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mSurvey Load (0.3ms)[0m   [0mSELECT * FROM "surveys" WHERE ("surveys".owner_id = 902541635) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mResponse Load (0.4ms)[0m   [0mSELECT "responses".* FROM "responses" INNER JOIN "user_surveys" ON "responses".user_survey_id = "user_surveys".id WHERE (("user_surveys".user_id = 902541635)) [0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 902541635) [0m
+  [4;35;1mUserSurvey Load (0.3ms)[0m   [0mSELECT * FROM "user_surveys" WHERE ("user_surveys".user_id = 902541635) [0m

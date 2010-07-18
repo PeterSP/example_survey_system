@@ -1,0 +1,16 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+alice_gender:
+  user_survey: alice
+  question: gender
+  option: female
+
+alice_orientation:
+  user_survey: alice
+  question: orientation
+  option: straight
+
+bob_morality:
+  user_survey: bob
+  question: morality
+  option: yes

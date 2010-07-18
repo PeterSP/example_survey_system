@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+gender:
+  survey: gender
+  question: What is your Gender?
+  help: M/F
+
+orientation:
+  survey: gender
+  question: What is your sexual orientation?
+  help: LGBT/S
+
+morality:
+  survey: morality
+  question: If you stand before a switch on a railroad track, and a train is hurtling down the tracks, and the only thing you can do is pull on the switch, and if pulling on the switch would cause the train to crush one person instead of five, should you pull the switch?

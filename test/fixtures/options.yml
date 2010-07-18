@@ -1,0 +1,41 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+male:
+  question: gender
+  value: Male
+
+female:
+  question: gender
+  value: Female
+
+other:
+  question: gender
+  value: Other
+
+gay:
+  question: orientation
+  value: Homosexual
+
+straight:
+  question: orientation
+  value: Heterosexual
+
+bi:
+  question: orientation
+  value: Bisexual
+
+asexual:
+  question: orientation
+  value: Asexual
+
+o_other:
+  question: orientation
+  value: Other
+
+yes:
+  question: morality
+  value: Yes
+
+no:
+  question: morality
+  value: No

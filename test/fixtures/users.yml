@@ -1,13 +1,13 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
-one:
-  name: MyString
-  login: MyString
-  password: 
-  password_confirmation: 
+alice:
+  name: Alice 
+  login: alice
+bob:
+  name: Robert
+  login: bob
 
-two:
-  name: MyString
-  login: MyString
-  password: 
-  password_confirmation: 
+charlie:
+  name: Charles
+  login: charlie
+  

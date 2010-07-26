@@ -100,6 +100,25 @@ class SurveysController < ApplicationController
     @survey = Survey.find(params[:id])
 
     @user_survey = UserSurvey.new(params[:user_survey])
+    
+    req = {}
+    scope = {}
+    res = {}
+    @user_survey.responses.each do |r|
+      res[r.question_id]=r.option_id
+      req[r.question_id]=Set.new
+      scope[r.question_id] = r.question.options_required[0].question_id \
+        unless r.question.options_required.count == 0
+      r.question.options_required.each do |o|
+        req[r.question_id]<< o.id
+      end
+    end
+    @user_survey.responses.each do |r|
+      if( (scope[r.question_id]) || \
+          !(req[r.question_id].include? res[scope[r.question_id]] ) )
+        r.destroy
+      end
+    end
 
     respond_to do |format|
       if @user_survey.save

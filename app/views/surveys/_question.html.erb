@@ -2,10 +2,10 @@
     <li>
       <%= qf.label :question %> <%= qf.text_field :question %><br/>
       <%= qf.label :help %> <%= qf.text_field :help %><br/>
-      <% qid = if(question.new_record?) then "new_question" else "question_#{question.id}" end -%>
-      <%= link_to_function 'Add Option', "add_option('#{question.id}')", :id => "#{qid}_link" %>
+      <% qid = if(question.new_record?) then "new_question" else "question_#{question_counter+1}" end -%>
+      <%= link_to_function 'Add Option', "add_option(#{question_counter+1})", :id => "#{qid}_link" %>
       <ul id="<%=qid%>">
-        <% render :partial => 'option', :collection => question.options, :locals => {:qf => qf} %>
+        <%= render :partial => 'option', :collection => question.options, :locals => {:qf => qf} %>
       </ul>
     </li>
   <% end -%>

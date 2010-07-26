@@ -1,0 +1,21 @@
+<h1>Listing question_requirements</h1>
+
+<table>
+  <tr>
+    <th>Question</th>
+    <th>Option</th>
+    <th>Survey</th>
+  </tr>
+
+<% @question_requirements.each do |qr| %>
+  <tr>
+    <td><%= h( qr.question.question ) %></td>
+    <td><%= h( qr.option.value )  %></td>
+    <td><%= link_to h(qr.question.survey.name), qr.question.survey %></td>
+    <td><%= link_to 'Show', qr %></td>
+    <td><%= link_to 'Destroy', qr, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+

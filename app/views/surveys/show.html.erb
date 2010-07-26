@@ -11,7 +11,8 @@
 <ul>
   <% @survey.questions.each do |q| -%>
   <li>
-    <em><%= h q.question %></em>: (<%= h q.help %>)
+    <em><%= h q.question %></em>: (<%= h q.help %>) 
+    [<%= link_to 'Add Requirement', {:controller => :question_requirements, :action => :new, :id => q.id} %>]
     <ul>
       <% q.options.each do |o| -%>
       <li>

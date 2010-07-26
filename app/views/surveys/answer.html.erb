@@ -1,5 +1,6 @@
 <h1>New Response</h1>
 
+
 <% form_for(:user_survey, @user_survey, :url => {:action => :respond, :id => @survey.id } ) do |f| %>
   <%= f.error_messages %>
   <%= f.hidden_field :survey_id %>
@@ -7,17 +8,20 @@
     <%= f.label :user %><br />
     <%= f.collection_select :user_id, User.all, :id, :login %>
   </p>
-  <% @user_survey.responses.each do |r| -%>
+  <% @user_survey.responses.each_with_index do |r,i| -%>
   <% f.fields_for :responses, r do |rf| -%>
-  <p>
-    <label><%= h r.question.question%></label> (<%=h r.question.help %>)<br />
-    <%= rf.hidden_field :question_id %>
-    <% r.question.options.each do |o| -%>
+  <div id="question_<%=r.question.id%>">
+    <p>
+      <label><%= h r.question.question%></label> (<%=h r.question.help %>)<br />
+      <%= rf.hidden_field :question_id %>
+      <% r.question.options.each do |o| -%>
+    </p>
     <ul>
       <li><%= rf.radio_button :option_id, o.id %> <%= o.value %></li>
+      <%= observe_option(o,i) %>
     </ul>
     <% end -%>
-  <p>
+  </div>
   <% end -%>
   <% end -%>
 

@@ -1,0 +1,13 @@
+<p>
+  <b>Question:</b>
+  <%=  h( @question_requirement.question.question ) %>
+</p>
+
+<p>
+  <b>Option:</b>
+  <%=h( @question_requirement.option.value ) %>
+</p>
+
+<%= link_to 'Survey', survey_path(@question_requirement.question.survey) %> |
+<%= link_to 'Edit', edit_question_requirement_path(@question_requirement) %> |
+<%= link_to 'Back', question_requirements_path %>

@@ -8,9 +8,9 @@
   }
     <% end -%>
   qid = <%=survey.questions.count%>;
-  oids = [];
+  oids = [0];
   <% survey.questions.each_with_index do |q,i| -%>
-    oids[<%=i%>]=<%=q.options.count%>;
+    oids[<%=i+1%>]=<%=q.options.count%>;
   <% end -%>
 <% end -%>
 

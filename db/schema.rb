@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100718025958) do
+ActiveRecord::Schema.define(:version => 20100718160355) do
 
   create_table "options", :force => true do |t|
     t.integer  "question_id"
@@ -20,6 +20,15 @@ ActiveRecord::Schema.define(:version => 20100718025958) do
   end
 
   add_index "options", ["question_id"], :name => "index_options_on_question_id"
+
+  create_table "question_requirements", :force => true do |t|
+    t.integer  "question_id"
+    t.integer  "option_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "question_requirements", ["question_id", "option_id"], :name => "index_question_requirements_on_question_id_and_option_id", :unique => true
 
   create_table "questions", :force => true do |t|
     t.string   "question",   :null => false

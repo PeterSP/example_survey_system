@@ -1,0 +1,20 @@
+<h1>Editing question_requirement</h1>
+
+<% form_for(@question_requirement) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :question %><br />
+    <%= f.text_field :question %>
+  </p>
+  <p>
+    <%= f.label :option %><br />
+    <%= f.text_field :option %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @question_requirement %> |
+<%= link_to 'Back', question_requirements_path %>

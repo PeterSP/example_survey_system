@@ -1,7 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
+  map.resources :question_requirements
 
-  map.resources :options
-  map.resources :questions
   map.resources :surveys
   map.resources :users
 

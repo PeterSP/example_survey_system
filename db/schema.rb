@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100718160355) do
+ActiveRecord::Schema.define(:version => 20100914183428) do
 
   create_table "options", :force => true do |t|
     t.integer  "question_id"
@@ -31,11 +31,12 @@ ActiveRecord::Schema.define(:version => 20100718160355) do
   add_index "question_requirements", ["question_id", "option_id"], :name => "index_question_requirements_on_question_id_and_option_id", :unique => true
 
   create_table "questions", :force => true do |t|
-    t.string   "question",   :null => false
+    t.string   "question",                                         :null => false
     t.string   "help"
-    t.integer  "survey_id",  :null => false
+    t.integer  "survey_id",                                        :null => false
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "type",       :default => "MultipleChoiceQuestion", :null => false
   end
 
   add_index "questions", ["survey_id"], :name => "index_questions_on_survey_id"
@@ -56,7 +57,7 @@ ActiveRecord::Schema.define(:version => 20100718160355) do
   end
 
   create_table "user_surveys", :force => true do |t|
-    t.integer  "user_id",    :null => false
+    t.integer  "user_id"
     t.integer  "survey_id",  :null => false
     t.datetime "created_at"
     t.datetime "updated_at"

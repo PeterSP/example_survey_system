@@ -91,7 +91,15 @@ class SurveysController < ApplicationController
     @user_survey = UserSurvey.new
     @user_survey.survey=@survey
     @survey.questions.each do |q|
-      @user_survey.responses<< Response.new(:question_id => q.id)
+      if q.is_a? Question
+        if q.is_a? MultipleChoiceQuestion
+          @user_survey.responses<< Response.new(:question_id => q.id)
+        elsif q.is_a? MultipleAnswerQuestion
+          q.options.each do |o|
+            @user_survey.responses << Response.new(:question_id => q.id, :option_id => o.id)
+          end
+        end
+      end
     end
   end
 
@@ -100,25 +108,29 @@ class SurveysController < ApplicationController
     @survey = Survey.find(params[:id])
 
     @user_survey = UserSurvey.new(params[:user_survey])
-    
-    req = {}
-    scope = {}
-    res = {}
-    @user_survey.responses.each do |r|
-      res[r.question_id]=r.option_id
-      req[r.question_id]=Set.new
-      scope[r.question_id] = r.question.options_required[0].question_id \
-        unless r.question.options_required.count == 0
-      r.question.options_required.each do |o|
-        req[r.question_id]<< o.id
-      end
-    end
-    @user_survey.responses.each do |r|
-      if( (scope[r.question_id]) || \
-          !(req[r.question_id].include? res[scope[r.question_id]] ) )
-        r.destroy
-      end
-    end
+
+    ## ##
+    # Question Requirements Block
+    ##
+#    req = {}
+#    scope = {}
+#    res = {}
+#    @user_survey.responses.each do |r|
+#      res[r.question_id]=r.option_id
+#      req[r.question_id]=Set.new
+#      scope[r.question_id] = r.question.options_required[0].question_id \
+#        unless r.question.options_required.count == 0
+#      r.question.options_required.each do |o|
+#        req[r.question_id]<< o.id
+#      end
+#    end
+#    @user_survey.responses.each do |r|
+#      if( (scope[r.question_id]) || \
+#          !(req[r.question_id].include? res[scope[r.question_id]] ) )
+#        @user_survey.responses.delete r
+#      end
+#    end
+    ## ##
 
     respond_to do |format|
       if @user_survey.save

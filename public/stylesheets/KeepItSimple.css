@@ -49,7 +49,7 @@ ul, ol {
 	margin: 10px 20px;
 	padding: 0 20px;
 }
-ul { list-style: disc; }
+ul { list-style: none; }
 ol { list-style: decimal; }
 
 dt {

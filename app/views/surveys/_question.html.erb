@@ -2,6 +2,19 @@
     <li>
       <%= qf.label :question %> <%= qf.text_field :question %><br/>
       <%= qf.label :help %> <%= qf.text_field :help %><br/>
+      <%= qf.label :type %> 
+      <ul>
+	<li>
+	  <%= qf.radio_button :type, 'MultipleChoiceQuestion' %>
+	  <%= qf.label :type, 'Single answer from multiple options.', \
+	      :value => 'MultipleChoiceQuestion' %> 
+	</li>
+	<li>
+	  <%= qf.radio_button :type, 'MultipleAnswerQuestion' %>
+	  <%= qf.label :type, 'Multiple answers from multiple options.', \
+	      :value => 'MultipleAnswerQuestion' %>
+	</li>
+      </ul>
       <% qid = if(question.new_record?) then "new_question" else "question_#{question_counter+1}" end -%>
       <%= link_to_function 'Add Option', "add_option(#{question_counter+1})", :id => "#{qid}_link" %>
       <ul id="<%=qid%>">

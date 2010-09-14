@@ -4,25 +4,54 @@
 <% form_for(:user_survey, @user_survey, :url => {:action => :respond, :id => @survey.id } ) do |f| %>
   <%= f.error_messages %>
   <%= f.hidden_field :survey_id %>
-  <p>
-    <%= f.label :user %><br />
-    <%= f.collection_select :user_id, User.all, :id, :login %>
-  </p>
+  <% questions = {} -%>
+  <% current_question = nil -%>
   <% @user_survey.responses.each_with_index do |r,i| -%>
   <% f.fields_for :responses, r do |rf| -%>
+  <% if current_question && current_question != r.question.id -%>
+    </ul>
+  </div>
+  <% end-%>
+  <% if r.question.is_a? MultipleChoiceQuestion -%>
+  <% current_question = nil -%>
   <div id="question_<%=r.question.id%>">
     <p>
       <label><%= h r.question.question%></label> (<%=h r.question.help %>)<br />
       <%= rf.hidden_field :question_id %>
-      <% r.question.options.each do |o| -%>
     </p>
     <ul>
-      <li><%= rf.radio_button :option_id, o.id %> <%= o.value %></li>
+    <% r.question.options.each do |o| -%>
+      <li>
+	<%= r.question.option_field rf, i, o.id %>
+	<%= rf.label :"option_id", o.value, :value => o.id %>
+      </li>
       <%= observe_option(o,i) %>
-    </ul>
     <% end -%>
+    </ul>
   </div>
+  <% elsif -%>
+    <% current_question = r.question.id -%>
+    <% unless questions[r.question.id] -%>
+  <div id="question_<%=r.question.id%>">
+    <p>
+      <label><%= h r.question.question%></label> (<%=h r.question.help %>)<br />
+    </p>
+    <ul>
+      <% questions[r.question.id] = true -%>
+    <% end -%>
+      <li>
+	<%= r.question.option_field rf, i, r.option.id %>
+	<%= rf.label :checked, r.option.value %>
+	<%= rf.hidden_field :question_id %>
+	<%= rf.hidden_field :option_id %>
+      </li>
+      <%= observe_option(r.option,i) %>
+  <% end # Question type -%>
   <% end -%>
+  <% end -%>
+  <% if current_question -%>
+    </ul>
+  </div>
   <% end -%>
 
   <p>
